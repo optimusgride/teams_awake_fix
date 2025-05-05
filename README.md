@@ -14,3 +14,6 @@ It is free for using without any limits. Enjoy-it!
 The script is wrote by me in Python and it uses opensource libraries 
 ## Contact
 For questions, open an issue in this repository or email me at optimusgride@gmail.com 
+## To help fund my project or you want me to adapt my development for you, consider supporting by direct transfer to PayPal: kersonia.e@gmail.com 
+
+
